@@ -28,7 +28,7 @@ const IndexPage = () => {
                 <span class="block text-yellow-200">it's good to see you here!</span>
               </h1>
               <p class="mt-6 max-w-lg mx-auto text-center text-xl text-orange-200 sm:max-w-3xl">
-                We're excited to see you trying out Cloud 66 Prepress, the best way to deploy your static sites on any cloud.
+                We're excited to see you trying out Cloud 66 Prepress, the best way to deploy your static sites on any cloud (master-copy).
               </p>
               <div class="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                 <div class="space-y-4 sm:space-y-0 sm:mx-auto">
